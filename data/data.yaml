@@ -1,0 +1,5 @@
+train: G:/PestVision/data/images/train
+val:   G:/PestVision/data/images/val
+
+nc: 1
+names: ['pest']
